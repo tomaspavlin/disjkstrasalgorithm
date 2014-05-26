@@ -22,8 +22,8 @@ Nejkratsí cyklus obsahujici hranu <hrana> je <vrcholy cyklu>. Jeho delka je <de
 Případně, pokud hrana neleží na cyklu, program vypíše:
 ```
 Zadana hrana neni na zadnem cyklu.
-Program předpokládá správně zadaný vstup a tedy neřeší případ, kdy zadaná hrana není hranou grafu.
 ```
+Program předpokládá správně zadaný vstup a tedy neřeší případ, kdy zadaná hrana není hranou grafu.
 ##Ukázkový vstup 1
 ```
 5
