@@ -1,4 +1,5 @@
-Nejkratší mezi nejkratšími
+#Nejkratší mezi nejkratšími
+sdgsd
 ===
 Program najde nejkratší cestu v grafu ze zadaného vrcholu ke všem vrcholům. Pokud jich je víc, vrátí tu, která používá nejméně hran. Používá na to Dijstrův algoritmus.
 
