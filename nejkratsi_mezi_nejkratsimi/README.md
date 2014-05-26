@@ -12,3 +12,8 @@ Program po spuštění očekává vstup v tomto formátu:
 ```
 
 blablabla
+
+
+Ukazkovy vstup
+===
+![in2](in2.png)
