@@ -13,7 +13,7 @@ Program po spuštění očekává vstup v tomto formátu:
 (…)
 <s>
 ```
-Kde s je vrchol, od kterého se hledá cesta k ostatním
+Kde s je vrchol, od kterého se hledá cesta k ostatním. Váhy hran jsou kladné a celočíselné.
 ###Výstup
 Program vypíše několik řádků ve formátu:
 ```
@@ -24,7 +24,7 @@ Kde cesta odpovídá nejkratší cestě z **s** (to je zadaný vrchol) do **čí
 <číslo vrcholu>: Cesta k tomuto vrcholu neexistuje.
 ```
 
-##Ukazkovy vstup
+##Ukázkový vstup
 ```
 8
 9
@@ -42,7 +42,7 @@ Kde cesta odpovídá nejkratší cestě z **s** (to je zadaný vrchol) do **čí
 To odpovídá cestám z vrcholu **0** v grafu:
 
 ![in2](in2.png)
-##Ukazkovy vystup
+##Ukázkový výstup
 ```
 0: Nejkratsi cesta je 0. Ma delku 0 a obsahuje 0 hran.
 1: Nejkratsi cesta je 0-1. Ma delku 4 a obsahuje 1 hran.
