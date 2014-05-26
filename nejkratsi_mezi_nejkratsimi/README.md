@@ -17,11 +17,10 @@ Program vypíše několik řádků ve formátu:
 ```
 <číslo vrcholu>: Nejkratsi cesta je <vrcholy cesty>. Ma delku <délka> a obsahuje <počet hran> hran.
 ```
-Kde cesta odpovídá nejkratší cestě z **s** (to je zadaný vrchol) do **číslo vrcholu**. Případně může mít řádek formát
+Kde cesta odpovídá nejkratší cestě z **s** (to je zadaný vrchol) do **číslo vrcholu**. Případně, pokud taková cesta neexistuje, může mít řádek formát:
 ```
 <číslo vrcholu>: Cesta k tomuto vrcholu neexistuje.
 ```
-pokud žádná taková cesta neexistuje.
 
 ##Ukazkovy vstup
 ```
@@ -38,9 +37,9 @@ pokud žádná taková cesta neexistuje.
 7 3 3
 0
 ```
-To odpovídá grafu
+To odpovídá cestám z vrcholu **0** a grafu:
+
 ![in2](in2.png)
-a cestám z vrcholu 0.
 ##Ukazkovy vystup
 ```
 0: Nejkratsi cesta je 0. Ma delku 0 a obsahuje 0 hran.
