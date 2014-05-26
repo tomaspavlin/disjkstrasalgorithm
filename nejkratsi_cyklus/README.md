@@ -13,7 +13,7 @@ Program po spuštění očekává vstup v tomto formátu:
 (…)
 <v1> <v2>
 ```
-Kde **v1** **v2** jsou vrcholy hrany, která má ležet v cyklu.
+Kde **v1** **v2** jsou vrcholy hrany, která má ležet v cyklu. Váhy hran jsou kladné a celočíselné.
 ###Výstup
 Program vypíše řádek ve formátu:
 ```
