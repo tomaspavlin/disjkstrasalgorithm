@@ -10,3 +10,5 @@ Program po spuštění očekává vstup v tomto formátu:
 (…)
 <s>#první vrchol
 ```
+
+blablabla
