@@ -19,7 +19,7 @@ Program vypíše několik řádků ve formátu:
 ```
 <číslo vrcholu>: <x>
 ```
-Kde **x** je **1**, pokud je nejkratší cestak němu jednoznačná, jinak je to **0**.
+Kde **x** je **1**, pokud je nejkratší cesta k němu jednoznačná, jinak je to **0**.
 ##Ukázkový vstup 1
 ```
 5
