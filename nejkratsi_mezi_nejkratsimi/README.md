@@ -37,7 +37,7 @@ Kde cesta odpovídá nejkratší cestě z **s** (to je zadaný vrchol) do **čí
 7 3 3
 0
 ```
-To odpovídá cestám z vrcholu **0** a grafu:
+To odpovídá cestám z vrcholu **0** v grafu:
 
 ![in2](in2.png)
 ##Ukazkovy vystup
