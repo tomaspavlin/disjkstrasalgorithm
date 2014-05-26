@@ -1,14 +1,6 @@
-Nejkratší mezi nejkratšími
+Dijkstra's algorithm
 ===
-Program najde nejkratší cestu v grafu ze zadaného vrcholu ke všem vrcholům. Pokud jich je víc, vrátí tu, která používá nejméně hran. Používá na to Dijstrův algoritmus.
-
-Program po spuštění očekává vstup v tomto formátu:
-```
-<pocet vrcholu grafu>
-<pocet hran grafu>
-<x> <y> <vaha hrany (x,y)>
-(…)
-<s>#první vrchol
-```
-
-blablabla
+Implementace tří úloh ze cvičení z ADS za použití Dijkstrova algoritmu:
+* [Jednoznačnost](jednoznacnost)
+* [Nejkratší cyklus](nejkratsi_cyklus)
+* [Nejkratší mezi nejkratšími](nejkratsi_mezi_nejkratsimi)
