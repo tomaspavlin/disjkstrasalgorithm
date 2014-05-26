@@ -13,7 +13,8 @@ Program po spuštění očekává vstup v tomto formátu:
 (…)
 <s>
 ```
-Kde s je vrchol, od kterého se hledá cesta k ostatním
+Kde s je vrchol, od kterého se hledá cesta k ostatním.
+Váhy hran jsou kladné a celočíselné.
 ###Výstup
 Program vypíše několik řádků ve formátu:
 ```
